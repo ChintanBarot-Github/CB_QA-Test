@@ -1,2 +1,2 @@
-# CB_QA-Test
+# QA-Test
 Technical Test 
